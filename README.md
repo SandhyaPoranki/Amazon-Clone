@@ -1,2 +1,2 @@
 # Amazon-Clone
-I created a Amazon Clone project using HTML and CSS
+I have created an Amazon Clone project using HTML and CSS
